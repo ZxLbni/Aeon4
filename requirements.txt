@@ -33,6 +33,7 @@ pymongo
 pyrogram
 python-dotenv
 python-magic
+quoters
 qbittorrent-api
 requests
 speedtest-cli
